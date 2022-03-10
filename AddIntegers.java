@@ -9,6 +9,6 @@ public class AddIntegers {
         int sum = first + second;
 
         System.out.println("The sum is: " + sum);
-        System.out.println("This is hira. ");
+        System.out.println("This is hira.");
     }
 }
